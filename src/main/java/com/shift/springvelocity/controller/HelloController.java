@@ -9,6 +9,7 @@ public class HelloController {
 
 	@RequestMapping("/hello")
 	public ModelAndView mymethod(){
+		System.out.println("MMMM");
 		return new ModelAndView("hellopage","msg","Hello First Spring");
 	}
 }
