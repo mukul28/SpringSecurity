@@ -9,8 +9,6 @@ public class HelloController {
 
 	@RequestMapping("/hello")
 	public ModelAndView mymethod(){
-		//removes fdsadfasfdasdfasdf
-		return new ModelAndView("hellopage","msg","Hello First Spring");//sdasdasd
-		//dddddddd
+		return new ModelAndView("hellopage","msg","Hello First Spring");
 	}
 }
