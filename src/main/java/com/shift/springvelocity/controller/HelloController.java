@@ -12,6 +12,3 @@ public class HelloController {
 		return new ModelAndView("hellopage","msg","Hello First Spring");
 	}
 }
-//this is for JIRA Commit
-
-//Another commit
