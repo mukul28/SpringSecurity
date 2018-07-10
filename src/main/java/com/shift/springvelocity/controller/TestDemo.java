@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 class my {
-	//this class constructor
+	
 	my(){
 		System.out.println("Constructor my ");
 	}
