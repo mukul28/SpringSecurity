@@ -1,7 +1,7 @@
 package com.shift.springvelocity.controller;
 
 import java.util.ArrayList;
-//Hello
+
 class first {
 	first(){
 		System.out.println("Constructor my ");
